@@ -1,0 +1,11 @@
+{
+    "name": "reactApp",
+    "description": "",
+    "repository": "",
+    "keywords": [
+        "node",
+        "express",
+        "heroku"
+    ],
+    "image": "heroku/nodejs"
+}
