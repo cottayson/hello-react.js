@@ -3,11 +3,8 @@
 // console.log('hello index.js')
 // console.log(merge([1,2,3]))
 // function merge(...a) {
-	// return a + [1];
+// return a + [1];
 // }
-
-// 
-
 
 import React from 'react'
 import ReactDOM from 'react-dom'

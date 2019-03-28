@@ -6,7 +6,6 @@ class App extends Component {
 		return (
 			<div>
 				<h1>Hello, react.js!</h1>
-				<h2>hello</h2>
 			</div>
 		);
 	}
